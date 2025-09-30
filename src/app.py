@@ -1,10 +1,8 @@
 # src/app.py
 """FastAPI app para servir o modelo salvo com MLflow e testar pipeline de dados"""
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from pydantic import BaseModel
 import os
-
-# Para carregar modelos .pkl
 import joblib
 
 # -----------------------------
@@ -23,16 +21,19 @@ from .feature_engineering import (
     criar_risco_efeito_estufa,
     mostrar_amostra
 )
+from .fetch_weather import get_weather  # Novo import para OpenWeather
 
 # -----------------------------
 # Modelo MLflow
 # -----------------------------
 class PredictRequest(BaseModel):
-    features: dict
+    features: dict = None   # Para envio manual
+    city: str = None        # Para OpenWeather
 
 app = FastAPI(title='API de predição')
 
-MODEL_URI = r"mlruns\391704604337633087\models\m-5d5d571fed6846a8818723897b26d72b\artifacts\model.pkl"
+# Atualize para o modelo compactado
+MODEL_URI = r"outputs/predictions/RandomForest_MultiOutput_Robusto_compressed.pkl"
 MODEL = None
 
 @app.on_event('startup')
@@ -55,11 +56,20 @@ def root():
 # -----------------------------
 @app.post('/predict')
 def predict(req: PredictRequest):
-    """Recebe features e retorna a predição do modelo com labels legíveis"""
+    """
+    Recebe features manualmente ou uma cidade para puxar via OpenWeather.
+    Retorna a predição do modelo com labels legíveis.
+    """
     if MODEL is None:
         raise HTTPException(status_code=503, detail='Modelo não carregado')
     try:
-        feat_dict = req.features
+        if req.city:
+            feat_dict = get_weather(req.city)
+        elif req.features:
+            feat_dict = req.features
+        else:
+            raise HTTPException(status_code=400, detail='Envie "features" ou "city"')
+
         keys = sorted(feat_dict.keys())
         X = [[feat_dict[k] for k in keys]]
         pred = MODEL.predict(X)
@@ -71,7 +81,6 @@ def predict(req: PredictRequest):
         qualidade_mapping = {0: 'Muito Ruim', 1: 'Ruim', 2: 'Moderada', 3: 'Boa', 4: 'Excelente'}
         risco_mapping = {0: 'Não', 1: 'Sim'}
 
-        # Ordem: [Qualidade_Ambiental, Risco_Chuva_Acida, Risco_Smog_Fotoquimico, Risco_Efeito_Estufa]
         response = {
             "Qualidade_Ambiental": qualidade_mapping[pred[0][0]],
             "Risco_Chuva_Acida": risco_mapping[pred[0][1]],
@@ -108,7 +117,7 @@ def preprocess_data():
         df = criar_risco_smog(df)
         df = criar_risco_efeito_estufa(df)
 
-        # Mostrar amostra final.   Para iniciar a FastAPI: uvicorn src.app:app --reload
+        # Mostrar amostra final. Para iniciar a FastAPI: uvicorn src.app:app --reload
         mostrar_amostra(df, n=10)
 
         return {"status": "pipeline executado com sucesso", "linhas": len(df)}
