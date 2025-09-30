@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (ignora tudo, menos o dataset principal)
+data/*
+!data/dataset_ambiental.csv
+
+# Models e artefatos grandes
+models/
+mlruns/
+
+# Outputs
+outputs/*
+!outputs/predictions/RandomForest_MultiOutput_Robusto.pkl
+!outputs/predictions/*.csv
+!outputs/confusion_matrices/*.png
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
