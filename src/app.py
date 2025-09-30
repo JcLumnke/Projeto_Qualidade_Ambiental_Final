@@ -33,7 +33,9 @@ class PredictRequest(BaseModel):
 app = FastAPI(title='API de predição')
 
 # Atualize para o modelo compactado
-MODEL_URI = "outputs/predictions/RandomForest_MultiOutput_Robusto_compressed.pkl"
+import os
+MODEL_URI = os.path.join(os.path.dirname(__file__), "../outputs/predictions/RandomForest_MultiOutput_Robusto_compressed.pkl")
+
 MODEL = None
 
 @app.on_event('startup')
