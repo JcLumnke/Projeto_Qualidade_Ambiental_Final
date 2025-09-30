@@ -34,7 +34,7 @@ app = FastAPI(title='API de predição')
 
 # Atualize para o modelo compactado
 import os
-MODEL_URI = "outputs/predictions/RandomForest_MultiOutput_Robusto_compressed.pkl"
+MODEL_URI = os.path.join(os.path.dirname(__file__), "outputs/predictions/RandomForest_MultiOutput_Robusto_compressed.pkl")
 MODEL = None
 
 print("Tentando carregar o modelo em:", os.path.abspath(MODEL_URI))

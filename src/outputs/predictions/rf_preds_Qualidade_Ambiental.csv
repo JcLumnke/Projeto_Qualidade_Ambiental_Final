@@ -1,0 +1,2898 @@
+Real,Predito,Real_Label,Predito_Label
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,3,Moderada,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+2,0,Moderada,Muito Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+0,1,Muito Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+0,4,Muito Ruim,Excelente
+0,4,Muito Ruim,Excelente
+0,2,Muito Ruim,Moderada
+4,1,Excelente,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+0,3,Muito Ruim,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+0,0,Muito Ruim,Muito Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,1,Moderada,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,1,Moderada,Ruim
+4,0,Excelente,Muito Ruim
+4,2,Excelente,Moderada
+1,4,Ruim,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,3,Moderada,Boa
+3,2,Boa,Moderada
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+0,3,Muito Ruim,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,1,Moderada,Ruim
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+0,4,Muito Ruim,Excelente
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,0,Muito Ruim,Muito Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+4,0,Excelente,Muito Ruim
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+0,3,Muito Ruim,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+0,4,Muito Ruim,Excelente
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+0,4,Muito Ruim,Excelente
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,3,Moderada,Boa
+1,2,Ruim,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,1,Moderada,Ruim
+0,0,Muito Ruim,Muito Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,0,Excelente,Muito Ruim
+2,0,Moderada,Muito Ruim
+0,4,Muito Ruim,Excelente
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+0,1,Muito Ruim,Ruim
+3,2,Boa,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+0,0,Muito Ruim,Muito Ruim
+1,2,Ruim,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+0,4,Muito Ruim,Excelente
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+0,2,Muito Ruim,Moderada
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+4,3,Excelente,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+3,2,Boa,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,1,Excelente,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+0,1,Muito Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+1,2,Ruim,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,4,Ruim,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,0,Excelente,Muito Ruim
+0,3,Muito Ruim,Boa
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,2,Ruim,Moderada
+2,1,Moderada,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,3,Muito Ruim,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+2,0,Moderada,Muito Ruim
+4,3,Excelente,Boa
+4,2,Excelente,Moderada
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+2,0,Moderada,Muito Ruim
+2,1,Moderada,Ruim
+0,3,Muito Ruim,Boa
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,4,Ruim,Excelente
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+4,0,Excelente,Muito Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+0,0,Muito Ruim,Muito Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+0,4,Muito Ruim,Excelente
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+2,0,Moderada,Muito Ruim
+4,2,Excelente,Moderada
+4,4,Excelente,Excelente
+4,0,Excelente,Muito Ruim
+0,2,Muito Ruim,Moderada
+2,3,Moderada,Boa
+4,2,Excelente,Moderada
+4,0,Excelente,Muito Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+3,3,Boa,Boa
+1,2,Ruim,Moderada
+2,4,Moderada,Excelente
+4,0,Excelente,Muito Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+0,4,Muito Ruim,Excelente
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+3,4,Boa,Excelente
+3,2,Boa,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+3,2,Boa,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,3,Excelente,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,3,Excelente,Boa
+0,1,Muito Ruim,Ruim
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+4,4,Excelente,Excelente
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,3,Muito Ruim,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+0,3,Muito Ruim,Boa
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+4,3,Excelente,Boa
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+4,4,Excelente,Excelente
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+0,0,Muito Ruim,Muito Ruim
+0,4,Muito Ruim,Excelente
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,1,Excelente,Ruim
+4,0,Excelente,Muito Ruim
+2,3,Moderada,Boa
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+4,2,Excelente,Moderada
+3,2,Boa,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,3,Excelente,Boa
+0,1,Muito Ruim,Ruim
+3,3,Boa,Boa
+4,1,Excelente,Ruim
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+3,3,Boa,Boa
+0,4,Muito Ruim,Excelente
+1,2,Ruim,Moderada
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+2,3,Moderada,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+4,0,Excelente,Muito Ruim
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+4,4,Excelente,Excelente
+4,3,Excelente,Boa
+0,3,Muito Ruim,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+4,3,Excelente,Boa
+2,0,Moderada,Muito Ruim
+0,4,Muito Ruim,Excelente
+1,1,Ruim,Ruim
+1,4,Ruim,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+1,2,Ruim,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,3,Moderada,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+4,3,Excelente,Boa
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+0,3,Muito Ruim,Boa
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,4,Muito Ruim,Excelente
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+4,0,Excelente,Muito Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+4,0,Excelente,Muito Ruim
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+0,2,Muito Ruim,Moderada
+0,1,Muito Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,3,Muito Ruim,Boa
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,3,Excelente,Boa
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+2,4,Moderada,Excelente
+1,4,Ruim,Excelente
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+4,4,Excelente,Excelente
+2,0,Moderada,Muito Ruim
+2,0,Moderada,Muito Ruim
+1,2,Ruim,Moderada
+2,3,Moderada,Boa
+0,4,Muito Ruim,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+1,2,Ruim,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+1,2,Ruim,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,0,Muito Ruim,Muito Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+0,4,Muito Ruim,Excelente
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+0,1,Muito Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,1,Excelente,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+0,2,Muito Ruim,Moderada
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,4,Ruim,Excelente
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+0,4,Muito Ruim,Excelente
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+0,2,Muito Ruim,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,1,Excelente,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,4,Muito Ruim,Excelente
+2,3,Moderada,Boa
+3,3,Boa,Boa
+0,4,Muito Ruim,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,3,Excelente,Boa
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,0,Muito Ruim,Muito Ruim
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,2,Boa,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,1,Excelente,Ruim
+2,1,Moderada,Ruim
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,3,Excelente,Boa
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+4,1,Excelente,Ruim
+2,2,Moderada,Moderada
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+2,2,Moderada,Moderada
+0,0,Muito Ruim,Muito Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,1,Moderada,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+0,4,Muito Ruim,Excelente
+4,4,Excelente,Excelente
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+0,3,Muito Ruim,Boa
+2,2,Moderada,Moderada
+4,0,Excelente,Muito Ruim
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+4,3,Excelente,Boa
+2,2,Moderada,Moderada
+4,3,Excelente,Boa
+4,4,Excelente,Excelente
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+2,1,Moderada,Ruim
+4,0,Excelente,Muito Ruim
+0,4,Muito Ruim,Excelente
+2,1,Moderada,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,1,Moderada,Ruim
+4,3,Excelente,Boa
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+4,0,Excelente,Muito Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+0,2,Muito Ruim,Moderada
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,0,Moderada,Muito Ruim
+2,0,Moderada,Muito Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,1,Excelente,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+3,2,Boa,Moderada
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+4,2,Excelente,Moderada
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+3,2,Boa,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,0,Excelente,Muito Ruim
+0,1,Muito Ruim,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,3,Muito Ruim,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,0,Excelente,Muito Ruim
+4,1,Excelente,Ruim
+4,1,Excelente,Ruim
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+0,3,Muito Ruim,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,0,Muito Ruim,Muito Ruim
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,0,Excelente,Muito Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+0,3,Muito Ruim,Boa
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+2,3,Moderada,Boa
+4,1,Excelente,Ruim
+4,2,Excelente,Moderada
+4,0,Excelente,Muito Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+4,3,Excelente,Boa
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+3,2,Boa,Moderada
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+0,3,Muito Ruim,Boa
+0,2,Muito Ruim,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,4,Muito Ruim,Excelente
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+4,4,Excelente,Excelente
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,1,Excelente,Ruim
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+0,1,Muito Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,3,Excelente,Boa
+4,2,Excelente,Moderada
+2,3,Moderada,Boa
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+0,4,Muito Ruim,Excelente
+4,1,Excelente,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+2,1,Moderada,Ruim
+0,2,Muito Ruim,Moderada
+0,1,Muito Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,3,Moderada,Boa
+4,0,Excelente,Muito Ruim
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,0,Excelente,Muito Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+4,3,Excelente,Boa
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,2,Ruim,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+0,1,Muito Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,1,Moderada,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,1,Muito Ruim,Ruim
+4,0,Excelente,Muito Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+4,3,Excelente,Boa
+1,2,Ruim,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,3,Moderada,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+2,0,Moderada,Muito Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,0,Moderada,Muito Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,2,Ruim,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+2,0,Moderada,Muito Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,1,Excelente,Ruim
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+4,1,Excelente,Ruim
+4,0,Excelente,Muito Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,3,Excelente,Boa
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+4,0,Excelente,Muito Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+2,3,Moderada,Boa
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,0,Muito Ruim,Muito Ruim
+2,0,Moderada,Muito Ruim
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,3,Excelente,Boa
+2,3,Moderada,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+2,3,Moderada,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+4,1,Excelente,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+0,0,Muito Ruim,Muito Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,0,Excelente,Muito Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,3,Moderada,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,3,Muito Ruim,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+4,4,Excelente,Excelente
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,1,Moderada,Ruim
+0,2,Muito Ruim,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+4,2,Excelente,Moderada
+4,1,Excelente,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+2,4,Moderada,Excelente
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,4,Moderada,Excelente
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,4,Boa,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,3,Moderada,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,3,Moderada,Boa
+3,3,Boa,Boa
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,4,Boa,Excelente
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,4,Ruim,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,2,Ruim,Moderada
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,1,Excelente,Ruim
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+2,1,Moderada,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,3,Moderada,Boa
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,4,Excelente,Excelente
+0,4,Muito Ruim,Excelente
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+0,3,Muito Ruim,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+0,4,Muito Ruim,Excelente
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+0,4,Muito Ruim,Excelente
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,1,Moderada,Ruim
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+0,0,Muito Ruim,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+2,3,Moderada,Boa
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+4,1,Excelente,Ruim
+2,3,Moderada,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+4,3,Excelente,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+0,3,Muito Ruim,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+2,2,Moderada,Moderada
+4,1,Excelente,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,3,Muito Ruim,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,1,Moderada,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,3,Moderada,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+0,0,Muito Ruim,Muito Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+2,4,Moderada,Excelente
+2,1,Moderada,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,3,Moderada,Boa
+2,1,Moderada,Ruim
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+3,2,Boa,Moderada
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+2,1,Moderada,Ruim
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+0,1,Muito Ruim,Ruim
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+0,4,Muito Ruim,Excelente
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+4,4,Excelente,Excelente
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,1,Moderada,Ruim
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+0,4,Muito Ruim,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,3,Moderada,Boa
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+0,1,Muito Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,3,Moderada,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,4,Moderada,Excelente
+0,2,Muito Ruim,Moderada
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+4,3,Excelente,Boa
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,1,Moderada,Ruim
+0,1,Muito Ruim,Ruim
+3,3,Boa,Boa
+4,1,Excelente,Ruim
+0,1,Muito Ruim,Ruim
+2,2,Moderada,Moderada
+1,0,Ruim,Muito Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+4,0,Excelente,Muito Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,4,Excelente,Excelente
+4,2,Excelente,Moderada
+3,2,Boa,Moderada
+0,0,Muito Ruim,Muito Ruim
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+0,4,Muito Ruim,Excelente
+1,1,Ruim,Ruim
+2,0,Moderada,Muito Ruim
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+3,3,Boa,Boa
+0,4,Muito Ruim,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+4,4,Excelente,Excelente
+1,2,Ruim,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,2,Ruim,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+2,0,Moderada,Muito Ruim
+2,3,Moderada,Boa
+3,3,Boa,Boa
+0,0,Muito Ruim,Muito Ruim
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+3,3,Boa,Boa
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+4,4,Excelente,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,4,Excelente,Excelente
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+2,2,Moderada,Moderada
+2,0,Moderada,Muito Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,4,Muito Ruim,Excelente
+4,2,Excelente,Moderada
+4,2,Excelente,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+2,4,Moderada,Excelente
+2,2,Moderada,Moderada
+2,1,Moderada,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+2,1,Moderada,Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+2,4,Moderada,Excelente
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,0,Moderada,Muito Ruim
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+4,1,Excelente,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+0,2,Muito Ruim,Moderada
+0,0,Muito Ruim,Muito Ruim
+2,0,Moderada,Muito Ruim
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+0,2,Muito Ruim,Moderada
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+0,1,Muito Ruim,Ruim
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+4,2,Excelente,Moderada
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+3,3,Boa,Boa
+2,2,Moderada,Moderada
+4,2,Excelente,Moderada
+2,1,Moderada,Ruim
+2,4,Moderada,Excelente
+3,3,Boa,Boa
+3,3,Boa,Boa
+4,2,Excelente,Moderada
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+1,1,Ruim,Ruim
+3,3,Boa,Boa
+3,3,Boa,Boa
+1,1,Ruim,Ruim
+1,1,Ruim,Ruim
+2,2,Moderada,Moderada
+2,2,Moderada,Moderada
+0,2,Muito Ruim,Moderada
+2,2,Moderada,Moderada
+3,3,Boa,Boa
+0,4,Muito Ruim,Excelente
