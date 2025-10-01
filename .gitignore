@@ -29,5 +29,4 @@ outputs/*
 *.log
 
 # Environment / secrets
-.env
-.env.*
+src/env
