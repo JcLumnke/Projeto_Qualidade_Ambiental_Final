@@ -1,22 +1,23 @@
+# Framework da API
 fastapi
-google-api-python-client
-gradio
-huggingface-hub
-imbalanced-learn
-ipython
-joblib
-lightgbm
-matplotlib
-mlflow
-numpy
-pandas
-plotly
-pyngrok
-pytest
-python-multipart
-scikit-learn
-scipy
-seaborn
-shap
+
+# Servidor para rodar a API
 uvicorn[standard]
-xgboost
+
+# Para carregar variáveis de ambiente (boa prática)
+python-dotenv
+
+# Para fazer a chamada à API do OpenWeather
+requests
+
+# Para carregar o modelo .pkl
+joblib
+
+# Biblioteca do modelo (RandomForest) e suas dependências
+scikit-learn
+
+# Para criar o DataFrame que o modelo recebe
+pandas
+
+# Dependência do pandas e scikit-learn
+numpy

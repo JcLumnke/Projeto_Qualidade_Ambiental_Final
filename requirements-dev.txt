@@ -1,0 +1,19 @@
+# Instala primeiro todas as dependências de produção
+-r requirements.txt
+
+# Agora, adiciona as ferramentas de desenvolvimento e análise
+google-api-python-client
+gradio
+huggingface-hub
+imbalanced-learn
+ipython
+lightgbm
+matplotlib
+mlflow
+plotly
+# pyngrok não é mais necessário, mesmo localmente
+pytest
+scipy
+seaborn
+shap
+xgboost
