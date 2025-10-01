@@ -75,6 +75,7 @@ python .\src\check_models.py
 python .\src\clean_miruns.py
 
 uvicorn src.app:app --reload --port 8000
+uvicorn src.app:app --reload --port 8000 --app-dir .
 
 {
   "features": {

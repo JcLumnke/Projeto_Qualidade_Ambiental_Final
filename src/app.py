@@ -1,6 +1,6 @@
 # src/app.py
 """FastAPI app para servir o modelo salvo com MLflow e testar pipeline de dados"""
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import os
 import joblib
@@ -32,9 +32,12 @@ class PredictRequest(BaseModel):
 
 app = FastAPI(title='API de predição')
 
-# Atualize para o modelo compactado
-import os
-MODEL_URI = MODEL_URI = os.path.join(os.path.dirname(__file__), "outputs", "predictions", "RandomForest_MultiOutput_Robusto_compressed.pkl")
+MODEL_URI = os.path.join(
+    os.path.dirname(__file__),
+    "outputs",
+    "predictions",
+    "RandomForest_MultiOutput_Robusto_compressed.pkl"
+)
 MODEL = None
 
 print("Tentando carregar o modelo em:", MODEL_URI)
@@ -53,9 +56,11 @@ def load_model():
         print('Aviso: não foi possível carregar o modelo no startup:', e)
         MODEL = None
 
+
 @app.get('/')
 def root():
     return {'status': 'ok', 'model_uri': MODEL_URI}
+
 
 # -----------------------------
 # Endpoint de predição atualizado
@@ -69,13 +74,26 @@ def predict(req: PredictRequest):
     if MODEL is None:
         raise HTTPException(status_code=503, detail='Modelo não carregado')
     try:
+        # Pegar dados da cidade ou do dicionário
         if req.city:
-            feat_dict = get_weather(req.city)
+            try:
+                feat_dict = get_weather(req.city)
+            except Exception as e:
+                raise HTTPException(status_code=400, detail=f"Erro ao buscar dados da cidade '{req.city}': {e}")
+            if not feat_dict:
+                raise HTTPException(status_code=400, detail=f"Não foi possível obter dados de {req.city}")
         elif req.features:
             feat_dict = req.features
         else:
             raise HTTPException(status_code=400, detail='Envie "features" ou "city"')
 
+        # Conferir se todas as chaves necessárias existem
+        required_keys = ["Temperatura", "Umidade", "CO2", "CO", "Pressao_Atm", "NO2", "SO2", "O3"]
+        missing = [k for k in required_keys if k not in feat_dict]
+        if missing:
+            raise HTTPException(status_code=400, detail=f"Faltando chaves: {missing}")
+
+        # Preparar dados para o modelo
         keys = sorted(feat_dict.keys())
         X = [[feat_dict[k] for k in keys]]
         pred = MODEL.predict(X)
@@ -98,6 +116,7 @@ def predict(req: PredictRequest):
 
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
+
 
 # -----------------------------
 # Endpoint para testar pipeline de dados
@@ -123,7 +142,7 @@ def preprocess_data():
         df = criar_risco_smog(df)
         df = criar_risco_efeito_estufa(df)
 
-        # Mostrar amostra final. Para iniciar a FastAPI: uvicorn src.app:app --reload
+        # Mostrar amostra final
         mostrar_amostra(df, n=10)
 
         return {"status": "pipeline executado com sucesso", "linhas": len(df)}
